@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Task_Intro\Task_Intro\bin\Debug\net6.0\Task_Intro.exe
+C:\Users\hp\Desktop\Task_Intro\Task_Intro\bin\Debug\net6.0\Task_Intro.deps.json
+C:\Users\hp\Desktop\Task_Intro\Task_Intro\bin\Debug\net6.0\Task_Intro.runtimeconfig.json
+C:\Users\hp\Desktop\Task_Intro\Task_Intro\bin\Debug\net6.0\Task_Intro.dll
+C:\Users\hp\Desktop\Task_Intro\Task_Intro\bin\Debug\net6.0\Task_Intro.pdb
+C:\Users\hp\Desktop\Task_Intro\Task_Intro\obj\Debug\net6.0\Task_Intro.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Task_Intro\Task_Intro\obj\Debug\net6.0\Task_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Task_Intro\Task_Intro\obj\Debug\net6.0\Task_Intro.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Task_Intro\Task_Intro\obj\Debug\net6.0\Task_Intro.AssemblyInfo.cs
+C:\Users\hp\Desktop\Task_Intro\Task_Intro\obj\Debug\net6.0\Task_Intro.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Task_Intro\Task_Intro\obj\Debug\net6.0\Task_Intro.dll
+C:\Users\hp\Desktop\Task_Intro\Task_Intro\obj\Debug\net6.0\refint\Task_Intro.dll
+C:\Users\hp\Desktop\Task_Intro\Task_Intro\obj\Debug\net6.0\Task_Intro.pdb
+C:\Users\hp\Desktop\Task_Intro\Task_Intro\obj\Debug\net6.0\Task_Intro.genruntimeconfig.cache
+C:\Users\hp\Desktop\Task_Intro\Task_Intro\obj\Debug\net6.0\ref\Task_Intro.dll
